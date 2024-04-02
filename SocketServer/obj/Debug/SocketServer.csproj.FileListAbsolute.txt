@@ -1,0 +1,14 @@
+C:\Users\pietr\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\pietr\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\pietr\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\pietr\source\repos\SocketServer\SocketServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pietr\source\repos\SocketServer\SocketServer\bin\Debug\websocket-sharp-core.dll
+C:\Users\pietr\source\repos\SocketServer\SocketServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pietr\source\repos\SocketServer\SocketServer\obj\Debug\SocketSe.25F2A651.Up2Date
